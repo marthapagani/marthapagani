@@ -1,16 +1,16 @@
-### Hi there 👋
+## Oii! Eu sou a Martha. 🐈‍⬛
 
-<!--
-**marthapagani/marthapagani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<img align="center" height="280em" src="https://github-readme-stats.vercel.app/api?username=marthapagani&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marthapagani&layout=compact&theme=vision-friendly-dark&hide_border=true"/><img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=marthapagani&theme=vision-friendly-dark&hide_border=true"/>
+</div>
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://instagram.com/amarthapagani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/amarthapagani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://br.pinterest.com/amarthapagani"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@marthapagani"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+
+</div>
